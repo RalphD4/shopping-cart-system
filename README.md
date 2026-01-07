@@ -1,8 +1,3 @@
-# shopping-cart-system
-Backend simulation of an online shopping cart in Java using OOP design.
-
-# Shopping Cart System (Java)
-
 ## Overview
 This project is a backend simulation of an online shopping cart system built in Java.  
 It demonstrates object-oriented design, data modeling, and core backend logic for managing customers, products, and shopping carts.
